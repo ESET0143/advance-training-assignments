@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\folders of .net\s1 Rectangle\bin\Debug\net8.0\s1 Rectangle.exe
+C:\Users\HP\Downloads\folders of .net\s1 Rectangle\bin\Debug\net8.0\s1 Rectangle.deps.json
+C:\Users\HP\Downloads\folders of .net\s1 Rectangle\bin\Debug\net8.0\s1 Rectangle.runtimeconfig.json
+C:\Users\HP\Downloads\folders of .net\s1 Rectangle\bin\Debug\net8.0\s1 Rectangle.dll
+C:\Users\HP\Downloads\folders of .net\s1 Rectangle\bin\Debug\net8.0\s1 Rectangle.pdb
+C:\Users\HP\Downloads\folders of .net\s1 Rectangle\obj\Debug\net8.0\s1 Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\folders of .net\s1 Rectangle\obj\Debug\net8.0\s1 Rectangle.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\folders of .net\s1 Rectangle\obj\Debug\net8.0\s1 Rectangle.AssemblyInfo.cs
+C:\Users\HP\Downloads\folders of .net\s1 Rectangle\obj\Debug\net8.0\s1 Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\folders of .net\s1 Rectangle\obj\Debug\net8.0\s1 Rectangle.dll
+C:\Users\HP\Downloads\folders of .net\s1 Rectangle\obj\Debug\net8.0\refint\s1 Rectangle.dll
+C:\Users\HP\Downloads\folders of .net\s1 Rectangle\obj\Debug\net8.0\s1 Rectangle.pdb
+C:\Users\HP\Downloads\folders of .net\s1 Rectangle\obj\Debug\net8.0\s1 Rectangle.genruntimeconfig.cache
+C:\Users\HP\Downloads\folders of .net\s1 Rectangle\obj\Debug\net8.0\ref\s1 Rectangle.dll

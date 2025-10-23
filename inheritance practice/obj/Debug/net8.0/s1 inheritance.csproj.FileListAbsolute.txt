@@ -1,0 +1,4 @@
+C:\Users\HP\Downloads\folders of .net\s1 inheritance\obj\Debug\net8.0\s1 inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\folders of .net\s1 inheritance\obj\Debug\net8.0\s1 inheritance.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\folders of .net\s1 inheritance\obj\Debug\net8.0\s1 inheritance.AssemblyInfo.cs
+C:\Users\HP\Downloads\folders of .net\s1 inheritance\obj\Debug\net8.0\s1 inheritance.csproj.CoreCompileInputs.cache

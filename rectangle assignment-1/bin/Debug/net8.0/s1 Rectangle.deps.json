@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "s1 Rectangle/1.0.0": {
+        "runtime": {
+          "s1 Rectangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "s1 Rectangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

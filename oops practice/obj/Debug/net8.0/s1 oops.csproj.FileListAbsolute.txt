@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\folders of .net\s1 oops\bin\Debug\net8.0\s1 oops.exe
+C:\Users\HP\Downloads\folders of .net\s1 oops\bin\Debug\net8.0\s1 oops.deps.json
+C:\Users\HP\Downloads\folders of .net\s1 oops\bin\Debug\net8.0\s1 oops.runtimeconfig.json
+C:\Users\HP\Downloads\folders of .net\s1 oops\bin\Debug\net8.0\s1 oops.dll
+C:\Users\HP\Downloads\folders of .net\s1 oops\bin\Debug\net8.0\s1 oops.pdb
+C:\Users\HP\Downloads\folders of .net\s1 oops\obj\Debug\net8.0\s1 oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\folders of .net\s1 oops\obj\Debug\net8.0\s1 oops.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\folders of .net\s1 oops\obj\Debug\net8.0\s1 oops.AssemblyInfo.cs
+C:\Users\HP\Downloads\folders of .net\s1 oops\obj\Debug\net8.0\s1 oops.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\folders of .net\s1 oops\obj\Debug\net8.0\s1 oops.dll
+C:\Users\HP\Downloads\folders of .net\s1 oops\obj\Debug\net8.0\refint\s1 oops.dll
+C:\Users\HP\Downloads\folders of .net\s1 oops\obj\Debug\net8.0\s1 oops.pdb
+C:\Users\HP\Downloads\folders of .net\s1 oops\obj\Debug\net8.0\s1 oops.genruntimeconfig.cache
+C:\Users\HP\Downloads\folders of .net\s1 oops\obj\Debug\net8.0\ref\s1 oops.dll
