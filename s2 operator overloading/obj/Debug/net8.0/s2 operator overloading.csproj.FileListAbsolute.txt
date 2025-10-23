@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\folders of .net\s2 operator overloading\bin\Debug\net8.0\s2 operator overloading.exe
+C:\Users\HP\Downloads\folders of .net\s2 operator overloading\bin\Debug\net8.0\s2 operator overloading.deps.json
+C:\Users\HP\Downloads\folders of .net\s2 operator overloading\bin\Debug\net8.0\s2 operator overloading.runtimeconfig.json
+C:\Users\HP\Downloads\folders of .net\s2 operator overloading\bin\Debug\net8.0\s2 operator overloading.dll
+C:\Users\HP\Downloads\folders of .net\s2 operator overloading\bin\Debug\net8.0\s2 operator overloading.pdb
+C:\Users\HP\Downloads\folders of .net\s2 operator overloading\obj\Debug\net8.0\s2 operator overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\folders of .net\s2 operator overloading\obj\Debug\net8.0\s2 operator overloading.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\folders of .net\s2 operator overloading\obj\Debug\net8.0\s2 operator overloading.AssemblyInfo.cs
+C:\Users\HP\Downloads\folders of .net\s2 operator overloading\obj\Debug\net8.0\s2 operator overloading.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\folders of .net\s2 operator overloading\obj\Debug\net8.0\s2 operator overloading.dll
+C:\Users\HP\Downloads\folders of .net\s2 operator overloading\obj\Debug\net8.0\refint\s2 operator overloading.dll
+C:\Users\HP\Downloads\folders of .net\s2 operator overloading\obj\Debug\net8.0\s2 operator overloading.pdb
+C:\Users\HP\Downloads\folders of .net\s2 operator overloading\obj\Debug\net8.0\s2 operator overloading.genruntimeconfig.cache
+C:\Users\HP\Downloads\folders of .net\s2 operator overloading\obj\Debug\net8.0\ref\s2 operator overloading.dll
